@@ -1,0 +1,10 @@
+﻿• DATA.JSON
+
+{    "userData": {        "userID" : 1,        "username" : "gdeagung15",        "userFirstname" : "GdeAgung",        "userLastname" : "MandalaBendesa",        "password": "",        "date_joined": "",        "is_superuser": 1,        "Kelas" : ""
+
+"userMatakuliah" : [{"matkulID" : 1,"matkulNama" : "Rekayasa Perangkat Lunak"},{"matkulID" : 2,"matkulNama" : "Pemrograman Berorientasi Objek"},{"matkulID" : 3,"matkulNama" : "Basis Data"},{"matkulID" : 4,"matkulNama" : "Praktikum Sistem Operasi"},{"matkulID" : 5,"matkulNama" : "Desain & Analisis Algoritma"},{"matkulID" : 6,"matkulNama" : "Komunikasi Data Dan Jaringan Komputer"},{"matkulID" : 7,"matkulNama" : "Interaksi Manusia & Komputer"},{"matkulID" : 8,"matkulNama" : "Praktikum Struktur Data"},    ],
+    "Gedung" : [        {"namaGedung" : "gedung-BC"},        {"namaGedung" : "gedung-BD"},        {"namaGedung" : "gedung-BE"},        {"namaGedung" : "gedung-BF"},        {"namaGedung" : "gedung "},        {"namaGedung" : "gedung "},        {"namaGedung" : "gedung"},        {"namaGedung" : "gedung"},        {"namaGedung" : "gedung"}    ],
+    "gedung-BD" : [        {"listMakul" :             {"makulID" : [1,2,3,4,5,6,7]}},        {"listMahasiswa":            {"userID" : 1}}    ]}
+
+
+

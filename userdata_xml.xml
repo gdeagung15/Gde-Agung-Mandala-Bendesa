@@ -1,0 +1,60 @@
+<userData>
+    <userID>1</userID>
+    <username>gdeagung15</username>
+    <userFirstname>GdeAgung</userFirstname>
+    <userLastname>MandalaBendesa<userLastname>
+    <password>=</password>
+    <date_joined>2020-11-07 12:08:56</date_joined>
+    <is_superuser>1</is_superuser>
+</userData>
+
+<userMatakuliah>
+    <mataKuliah>
+    <matkulID>1</matkulID> <matkulNama>Bahasa Indonesia</matkulNama>
+    </mataKuliah>
+    <mataKuliah>
+    <matkulID>2</matkulID> <matkulNama>Matematika</matkulNama>
+    </mataKuliah>
+    <mataKuliah>
+    <matkulID>3</matkulID> <matkulNama>Fisika</matkulNama>
+    </mataKuliah>
+    <mataKuliah>
+    <matkulID>4</matkulID> <matkulNama>Biologi</matkulNama>
+    </mataKuliah>
+    <mataKuliah>
+    <matkulID>5</matkulID> <matkulNama>Kimia</matkulNama>
+    </mataKuliah>
+    <mataKuliah>
+    <matkulID>6</matkulID> <matkulNama>Bahasa Inggris</matkulNama>
+    </mataKuliah>
+    <mataKuliah>
+    <matkulID>7</matkulID> <matkulNama>PKN</matkulNama>
+    </mataKuliah>
+    <mataKuliah>
+    <matkulID>8</matkulID> <matkulNama>Sosial</matkulNama>
+    </mataKuliah>
+</userMatakuliah>
+
+<Gedung>
+    <namaGedung>
+    gedung-BC
+    </namaGedung>
+    <namaGedung>
+    gedung-BD
+    </namaGedung>
+    <namaGedung>
+    gedung-BE
+    </namaGedung>
+    <namaGedung>
+    gedung-BF
+    </namaGedung>
+</Gedung>
+
+<gedung-BD>
+    <listMatkul>
+        <matkulID>1,2,3,4,5,6,7</matkulID>
+    </listMatkul>
+    <listMahasiswa>
+        <userID>1</userID>
+    </listMahasiswa>
+</gedung-BD>
