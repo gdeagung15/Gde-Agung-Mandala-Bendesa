@@ -3,7 +3,7 @@
     <username>gdeagung15</username>
     <userFirstname>GdeAgung</userFirstname>
     <userLastname>MandalaBendesa<userLastname>
-    <password>=</password>
+    <password>pbkdf2_sha256$216000$2vpjyi9h3Sa4$mQw0se120t5ttA9UXVMd/bK682FlbzE3hmThmtOOP64=</password>
     <date_joined>2020-11-07 12:08:56</date_joined>
     <is_superuser>1</is_superuser>
 </userData>
@@ -35,7 +35,7 @@
     </mataKuliah>
 </userMatakuliah>
 
-<Gedung>
+<daftarGedung>
     <namaGedung>
     gedung-BC
     </namaGedung>

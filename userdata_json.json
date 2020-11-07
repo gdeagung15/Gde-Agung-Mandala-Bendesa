@@ -1,0 +1,101 @@
+{
+    "users": [
+        {
+            "userID": 1,
+            "username": "gdeagung15",
+            "userFirstname": "GdeAgung",
+            "userLastname": "MandalaBendesa",
+            "password": "pbkdf2_sha256$216000$2vpjyi9h3Sa4$mQw0se120t5ttA9UXVMd/bK682FlbzE3hmThmtOOP64=",
+            "date_joined": "",
+            "is_superuser": 1,
+            "Gedung": "gedung-BD"
+        }
+    ],
+    
+    "userMatakuliah": [
+        {
+            "matkulID": 1,
+            "matkulNama": "Rekayasa Perangkat Lunak"
+        },
+        {
+            "matkulID": 2,
+            "matkulNama": "Pemrograman Berorientasi Objek"
+        },
+        {
+            "matkulID": 3,
+            "matkulNama": "Basis Data"
+        },
+        {
+            "matkulID": 4,
+            "matkulNama": "Praktikum Sistem Operasi"
+        },
+        {
+            "matkulID": 5,
+            "matkulNama": "Desain & Analisis Algoritma"
+        },
+        {
+            "matkulID": 6,
+            "matkulNama": "Komunikasi Data Dan Jaringan Komputer"
+        },
+        {
+            "matkulID": 7,
+            "matkulNama": "Interaksi Manusia & Komputer"
+        },
+        {
+            "matkulID": 8,
+            "matkulNama": "Praktikum Struktur Data"
+        }
+    ],
+    "daftarGedung": [
+        {
+            "namaGedung": "gedung-BC"
+        },
+        {
+            "namaGedung": "gedung-BD"
+        },
+        {
+            "namaGedung": "gedung-BE"
+        },
+        {
+            "namaGedung": "gedung-BF"
+        },
+        {
+            "namaGedung": "gedung "
+        },
+        {
+            "namaGedung": "gedung "
+        },
+        {
+            "namaGedung": "gedung"
+        },
+        {
+            "namaGedung": "gedung"
+        },
+        {
+            "namaGedung": "gedung"
+        }
+    ],
+    "gedung-BD": [
+        {
+            "listMakul": {
+                "makulID": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7
+                ]
+            }
+        },
+        {
+            "listIdMahasiswa": [
+                1,
+                2,
+                3,
+                4
+            ]
+        }
+    ]
+}
